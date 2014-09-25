@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="TestAll">
+ 
+  <test name=" Yepme Test">
+	
+ 
+	<classes>
+		<class name="mypack.PurchaseButoon" />
+	    <class name="mypack.VerifyingShareLinks" />
+		<class name="mypack.DynamicImageForwarding" />
+		
+		
+	</classes>
+	 </test>
+  
+</suite>

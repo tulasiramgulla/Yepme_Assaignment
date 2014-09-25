@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="222657" started-at="2014-09-25T19:06:28Z" finished-at="2014-09-25T19:10:11Z">
+    <groups>
+    </groups>
+    <test name=" Yepme Test" duration-ms="222657" started-at="2014-09-25T19:06:28Z" finished-at="2014-09-25T19:10:11Z">
+      <class name="mypack.VerifyingShareLinks">
+        <test-method status="PASS" signature="b()[pri:0, instance:mypack.VerifyingShareLinks@16eacf1]" name="b" is-config="true" duration-ms="6385" started-at="2014-09-25T12:07:16Z" finished-at="2014-09-25T12:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="test()[pri:0, instance:mypack.VerifyingShareLinks@16eacf1]" name="test" duration-ms="46675" started-at="2014-09-25T12:07:22Z" finished-at="2014-09-25T12:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="a()[pri:0, instance:mypack.VerifyingShareLinks@16eacf1]" name="a" is-config="true" duration-ms="8120" started-at="2014-09-25T12:08:09Z" finished-at="2014-09-25T12:08:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- mypack.VerifyingShareLinks -->
+      <class name="mypack.DynamicImageForwarding">
+        <test-method status="PASS" signature="b()[pri:0, instance:mypack.DynamicImageForwarding@e2d663]" name="b" is-config="true" duration-ms="6726" started-at="2014-09-25T12:08:17Z" finished-at="2014-09-25T12:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="test()[pri:0, instance:mypack.DynamicImageForwarding@e2d663]" name="test" duration-ms="99441" started-at="2014-09-25T12:08:24Z" finished-at="2014-09-25T12:10:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="af()[pri:0, instance:mypack.DynamicImageForwarding@e2d663]" name="af" is-config="true" duration-ms="7632" started-at="2014-09-25T12:10:03Z" finished-at="2014-09-25T12:10:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- mypack.DynamicImageForwarding -->
+      <class name="mypack.PurchaseButoon">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="initialize" is-config="true" duration-ms="17" started-at="2014-09-25T12:06:28Z" finished-at="2014-09-25T12:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="b()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="b" is-config="true" duration-ms="7842" started-at="2014-09-25T12:06:28Z" finished-at="2014-09-25T12:06:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="test()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="test" duration-ms="31943" started-at="2014-09-25T12:06:36Z" finished-at="2014-09-25T12:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="af()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="af" is-config="true" duration-ms="7879" started-at="2014-09-25T12:07:08Z" finished-at="2014-09-25T12:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- mypack.PurchaseButoon -->
+    </test> <!--  Yepme Test -->
+  </suite> <!-- TestAll -->
+</testng-results>

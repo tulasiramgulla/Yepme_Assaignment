@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestAll]">
+  <test name=" Yepme Test(failed)">
+    <classes>
+      <class name="mypack.VerifyingShareLinks">
+        <methods>
+          <include name="a"/>
+          <include name="b"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- mypack.VerifyingShareLinks -->
+      <class name="mypack.PurchaseButoon">
+        <methods>
+          <include name="b"/>
+          <include name="test"/>
+          <include name="af"/>
+        </methods>
+      </class> <!-- mypack.PurchaseButoon -->
+      <class name="mypack.DynamicImageForwarding">
+        <methods>
+          <include name="b"/>
+          <include name="af"/>
+        </methods>
+      </class> <!-- mypack.DynamicImageForwarding -->
+    </classes>
+  </test> <!--  Yepme Test(failed) -->
+</suite> <!-- Failed suite [TestAll] -->

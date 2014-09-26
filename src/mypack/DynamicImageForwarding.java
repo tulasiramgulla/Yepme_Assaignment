@@ -46,7 +46,7 @@ public class DynamicImageForwarding extends Helper {
 				list1.get(i).click();	
 			}
 			/*checking the condition whether the required page loaded successfully or not*/
-			sleep(5);
+			sleep(3);
 			System.out.println("The link clicked is:" +list1.get(i).getText());
 			sleep(5);
 			System.out.println(list1.get(i).getAttribute("class"));

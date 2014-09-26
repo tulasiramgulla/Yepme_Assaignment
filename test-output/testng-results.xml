@@ -2,52 +2,52 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="TestAll" duration-ms="222657" started-at="2014-09-25T19:06:28Z" finished-at="2014-09-25T19:10:11Z">
+  <suite name="TestAll" duration-ms="213460" started-at="2014-09-26T01:09:03Z" finished-at="2014-09-26T01:12:36Z">
     <groups>
     </groups>
-    <test name=" Yepme Test" duration-ms="222657" started-at="2014-09-25T19:06:28Z" finished-at="2014-09-25T19:10:11Z">
+    <test name=" Yepme Test" duration-ms="213460" started-at="2014-09-26T01:09:03Z" finished-at="2014-09-26T01:12:36Z">
       <class name="mypack.VerifyingShareLinks">
-        <test-method status="PASS" signature="b()[pri:0, instance:mypack.VerifyingShareLinks@16eacf1]" name="b" is-config="true" duration-ms="6385" started-at="2014-09-25T12:07:16Z" finished-at="2014-09-25T12:07:22Z">
+        <test-method status="PASS" signature="b()[pri:0, instance:mypack.VerifyingShareLinks@1d4cb4b]" name="b" is-config="true" duration-ms="5994" started-at="2014-09-25T18:09:49Z" finished-at="2014-09-25T18:09:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b -->
-        <test-method status="PASS" signature="test()[pri:0, instance:mypack.VerifyingShareLinks@16eacf1]" name="test" duration-ms="46675" started-at="2014-09-25T12:07:22Z" finished-at="2014-09-25T12:08:09Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:mypack.VerifyingShareLinks@1d4cb4b]" name="test" duration-ms="48235" started-at="2014-09-25T18:09:55Z" finished-at="2014-09-25T18:10:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="a()[pri:0, instance:mypack.VerifyingShareLinks@16eacf1]" name="a" is-config="true" duration-ms="8120" started-at="2014-09-25T12:08:09Z" finished-at="2014-09-25T12:08:17Z">
+        <test-method status="PASS" signature="a()[pri:0, instance:mypack.VerifyingShareLinks@1d4cb4b]" name="a" is-config="true" duration-ms="8265" started-at="2014-09-25T18:10:43Z" finished-at="2014-09-25T18:10:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
       </class> <!-- mypack.VerifyingShareLinks -->
       <class name="mypack.DynamicImageForwarding">
-        <test-method status="PASS" signature="b()[pri:0, instance:mypack.DynamicImageForwarding@e2d663]" name="b" is-config="true" duration-ms="6726" started-at="2014-09-25T12:08:17Z" finished-at="2014-09-25T12:08:24Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:mypack.DynamicImageForwarding@132967d]" name="initialize" is-config="true" duration-ms="12" started-at="2014-09-25T18:09:03Z" finished-at="2014-09-25T18:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="b()[pri:0, instance:mypack.DynamicImageForwarding@132967d]" name="b" is-config="true" duration-ms="6894" started-at="2014-09-25T18:10:52Z" finished-at="2014-09-25T18:10:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b -->
-        <test-method status="PASS" signature="test()[pri:0, instance:mypack.DynamicImageForwarding@e2d663]" name="test" duration-ms="99441" started-at="2014-09-25T12:08:24Z" finished-at="2014-09-25T12:10:03Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:mypack.DynamicImageForwarding@132967d]" name="test" duration-ms="89479" started-at="2014-09-25T18:10:59Z" finished-at="2014-09-25T18:12:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="af()[pri:0, instance:mypack.DynamicImageForwarding@e2d663]" name="af" is-config="true" duration-ms="7632" started-at="2014-09-25T12:10:03Z" finished-at="2014-09-25T12:10:11Z">
+        <test-method status="PASS" signature="af()[pri:0, instance:mypack.DynamicImageForwarding@132967d]" name="af" is-config="true" duration-ms="7935" started-at="2014-09-25T18:12:28Z" finished-at="2014-09-25T18:12:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
       </class> <!-- mypack.DynamicImageForwarding -->
       <class name="mypack.PurchaseButoon">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="initialize" is-config="true" duration-ms="17" started-at="2014-09-25T12:06:28Z" finished-at="2014-09-25T12:06:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="b()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="b" is-config="true" duration-ms="7842" started-at="2014-09-25T12:06:28Z" finished-at="2014-09-25T12:06:36Z">
+        <test-method status="PASS" signature="b()[pri:0, instance:mypack.PurchaseButoon@e28347]" name="b" is-config="true" duration-ms="7514" started-at="2014-09-25T18:09:03Z" finished-at="2014-09-25T18:09:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b -->
-        <test-method status="PASS" signature="test()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="test" duration-ms="31943" started-at="2014-09-25T12:06:36Z" finished-at="2014-09-25T12:07:08Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:mypack.PurchaseButoon@e28347]" name="test" duration-ms="31352" started-at="2014-09-25T18:09:10Z" finished-at="2014-09-25T18:09:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="af()[pri:0, instance:mypack.PurchaseButoon@e02fc4]" name="af" is-config="true" duration-ms="7879" started-at="2014-09-25T12:07:08Z" finished-at="2014-09-25T12:07:16Z">
+        <test-method status="PASS" signature="af()[pri:0, instance:mypack.PurchaseButoon@e28347]" name="af" is-config="true" duration-ms="7776" started-at="2014-09-25T18:09:41Z" finished-at="2014-09-25T18:09:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->

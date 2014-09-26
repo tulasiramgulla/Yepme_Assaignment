@@ -20,18 +20,18 @@ public class Helper extends TestBase {
 			  driver= new FirefoxDriver();
 		  }
 		  else if(config.getProperty("browserType").equalsIgnoreCase("Chrome")) {
-			  System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");
+			  System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "\\src\\driver\\chromedriver.exe");
 			  driver = new ChromeDriver();
 		  }
 		  else {
 			  if(config.getProperty("browserType").equalsIgnoreCase("IE"))
-			  System.setProperty("webdriver.ie.driver", "C:\\IEDriverServer.exe");
+			  System.setProperty("webdriver.ie.driver", System.getProperty("user.dir") + "\\src\\driver\\IEDriverServer.exe");
 			  driver=new InternetExplorerDriver();
 		  }	  
 	}
 	
 	public void chromebow(){
-		 System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");
+		 System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "\\src\\driver\\chromedriver.exe");
 		  driver = new ChromeDriver();
 		  System.out.println("choosing the browser : Chrome" );
 	}

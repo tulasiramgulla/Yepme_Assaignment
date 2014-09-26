@@ -14,7 +14,6 @@
         <methods>
           <include name="b"/>
           <include name="test"/>
-          <include name="af"/>
         </methods>
       </class> <!-- mypack.PurchaseButoon -->
       <class name="mypack.DynamicImageForwarding">
